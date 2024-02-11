@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707634819162,
+      "tag": "0000_faithful_cable",
+      "breakpoints": true
+    }
+  ]
+}
